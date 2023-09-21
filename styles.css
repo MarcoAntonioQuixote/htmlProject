@@ -1,0 +1,16 @@
+/* body {
+    background-color: red;
+} */
+
+.imageButton {
+    height: 200px;
+    width: 200px;
+}
+
+.border {
+    border: solid red 2px;
+}
+
+.border:hover {
+    border: solid black 5px;
+}
