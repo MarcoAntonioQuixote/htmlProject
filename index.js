@@ -9,4 +9,4 @@ fetch('https://pokeapi.co/api/v2/pokemon/mew')
         document.body.append(picture);
     });
 
-let name = "Bad Ass";
+let name = "Bad Mother Daughter";
