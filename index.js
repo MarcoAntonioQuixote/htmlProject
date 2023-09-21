@@ -8,3 +8,5 @@ fetch('https://pokeapi.co/api/v2/pokemon/mew')
         picture.src = img;
         document.body.append(picture);
     });
+
+let name = "Bad Ass";
